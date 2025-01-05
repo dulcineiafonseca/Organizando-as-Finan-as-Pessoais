@@ -1,4 +1,4 @@
-# Organizando-as-Finan-as-Pessoais
+# Organizando-as-Financas-Pessoais
 # Como Organizar Sua Vida Financeira com Planilhas Inteligentes e IA
 
 Este repositório oferece uma solução prática para organizar sua vida financeira utilizando **planilhas inteligentes**, **análise de dados** e **Inteligência Artificial (IA)**. Você aprenderá como controlar seus gastos, economizar mais, e melhorar sua saúde financeira de maneira simples e eficaz.
@@ -71,8 +71,6 @@ else:
 4. Banco de Dados Simulado (transacoes_simuladas.csv)
 Este arquivo conterá transações simuladas para que o usuário possa testar a planilha e o script. O arquivo pode ser algo assim:
 
-csv
-Copiar código
 Data,Categoria,Valor
 2025-01-01,Salário,3000
 2025-01-02,Alimentação,-500
@@ -89,8 +87,6 @@ Link para Template Figma
 6. Insights e Dicas sobre Economia
 Arquivo insights/dicas_poupanca.md:
 
-markdown
-Copiar código
 # Dicas para Poupar Dinheiro
 
 1. **Crie um Fundo de Emergência**: Tente manter de 3 a 6 meses de despesas guardados em uma conta separada para emergências.
@@ -98,8 +94,6 @@ Copiar código
 3. **Automatize suas Economias**: Configure transferências automáticas para sua poupança assim que receber o pagamento.
 Arquivo insights/economia_consciente.md:
 
-markdown
-Copiar código
 # Como Ser mais Consciente nas Finanças
 
 1. **Evite Compras Impulsivas**: Antes de comprar, pergunte a si mesmo se o item é realmente necessário.
